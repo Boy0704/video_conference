@@ -1,0 +1,20 @@
+{
+  "name": "video_conference",
+  "version": "1.0.0",
+  "description": "Aplikasi Video Call Conference",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vc"
+  ],
+  "author": "Boy Kurniawan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "btoa": "^1.2.1",
+    "express": "^4.17.1",
+    "jssha": "^2.4.0"
+  }
+}
